@@ -9,11 +9,15 @@ repositories {
 dependencies {
     compile 'com.ufkoku.cache:lru_cache:1.0.0@aar'
     //or
-    compile 'com.ufkoku.cache:lru_cache:1.0.0'
+    compile ('com.ufkoku.cache:lru_cache:1.0.0'){
+        transitive = true
+    }
 }
 
 ```
 
 Usage:
 
+```java
 SizeBasedEnhancedLruCache<String, Object> cache = new SizeBasedEnhancedLruCache<>(sizeInBytes);
+```
