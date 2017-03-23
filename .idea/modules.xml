@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SizeBasedLruCache.iml" filepath="$PROJECT_DIR$/SizeBasedLruCache.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sizebasedlrucache/sizebasedlrucache.iml" filepath="$PROJECT_DIR$/sizebasedlrucache/sizebasedlrucache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lru_cache/lru_cache.iml" filepath="$PROJECT_DIR$/lru_cache/lru_cache.iml" />
     </modules>
   </component>
 </project>

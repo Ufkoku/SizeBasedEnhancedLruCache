@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/sizebasedlrucache" />
+            <option value="$PROJECT_DIR$/lru_cache" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
