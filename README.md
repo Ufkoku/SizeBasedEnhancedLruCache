@@ -7,9 +7,9 @@ repositories {
 }
 
 dependencies {
-    compile 'com.ufkoku.cache:lru_cache:1.0.0@aar'
+    compile 'com.ufkoku.cache:lru_cache:1.0.0'
     //or
-    compile ('com.ufkoku.cache:lru_cache:1.0.0'){
+    compile ('com.ufkoku.cache:lru_cache:1.0.0@aar'){
         transitive = true
     }
 }
